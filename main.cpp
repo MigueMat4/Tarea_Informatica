@@ -5,12 +5,12 @@ using namespace std;
 int main()
 {
 	int numero,contador,residuo, divisibles=0;
-	
-	//Entradas.
+
+	//Entradas
 	cout << "Ingrese numero: ";
 	cin >> numero;
 
-	//Proceso.
+	//Proceso
 	contador = 1;
 
 	do
@@ -22,8 +22,8 @@ int main()
 		}
 		contador = contador++;
 	} while (contador <= numero);
-
-	//Salida.
+	
+	//Salida
 	if (divisibles == 2)
 	{
 		cout << "El numero es primo " << endl;
