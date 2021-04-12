@@ -8,4 +8,4 @@
 *1. Ejercicio*
 *2. Videojuegos*
 *3. Universidad*
-# Tuve en cuenta lo de las imagenes pero no pude inge :()
+# Tuve en cuenta lo de las imagenes pero no pude inge :(
