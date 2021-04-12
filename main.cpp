@@ -1,10 +1,13 @@
-// <Ingrese su nombre completo y número de carnet>
+// Rodrigo Benjamin Monterroso Martinez
 #include <iostream>
-
 using namespace std;
-
 int main()
 {
-    cout << "¡Hola estudiantes!" << endl;
-    return 0;
+	char a;
+	cout << "ingrese una letra" << endl; cin >> a;
+	if (a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u')
+		cout << "Es una vocal";
+	else
+		cout << "No es vocal";
+	system("pause");
 }
