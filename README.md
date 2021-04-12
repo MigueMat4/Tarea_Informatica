@@ -3,3 +3,7 @@
 
 ## Autor
 Datos sobre el programador.
+
+Mi nombre es Gerardo Ortíz soy una persona apasionada por la musica, desde los 7 años me interese por ejercutar instrumentos, aunque mi fuerte hoy en día es la percusión en general tambien se tocar marimba, guitarra, un poco de piano y bajo electrico.
+
+link de donde toco marimba de morrito : https://www.youtube.com/watch?v=IQaCSHNNNbI
