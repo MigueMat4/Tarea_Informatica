@@ -3,3 +3,6 @@
 
 ## Autor
 Datos sobre el programador.
+## Soy una persona muy senclla al momento de realizar ciertos trabajos, soy breve y concisa
+## Me gusta ver mas alla de las cosas, como en un proceso, me gusta analizar cada uno de sus pasos.
+## Esto es lo interesante hasta el momento de mi persona, cuando llegue a ser ingeniera habran más cosas interesantes.
