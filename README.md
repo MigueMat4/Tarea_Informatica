@@ -1,5 +1,10 @@
 # Tarea para los estudiantes de Ingeniería en Informática y Sistemas
- Repositorio para que los estudiantes del primer año de Ingeniería en Informática y Sistemas puedan poner en práctica lo aprendido sobre GIT.
+ Repositorio a crear.
 
-## Autor
-Datos sobre el programador.
+## Autor Anderson Omar Noe Hernandez de Leon , 1512321
+Anderson Omar Noe Hernandez de Leon , 1512321
+###### Informacion
+**Comenzare a explicar las cosas**
+*Se lleva el proceso de crear, para tener mas ensayo sobre las cosas *
+*Asi mismo esto ayudara a mejorar la practica*
+*Se debe de clonar, luego se debe de modificar los archivos segun las instruciones para su funcionamiento, mismo subiendo lo y editandolo hacer el commit para que cada modificacion que se hace se suba y por ultimo se subir todo con un pull request*
