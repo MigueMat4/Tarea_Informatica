@@ -1,5 +1,8 @@
-# Tarea para los estudiantes de Ingeniería en Informática y Sistemas
- Repositorio para que los estudiantes del primer año de Ingeniería en Informática y Sistemas puedan poner en práctica lo aprendido sobre GIT.
+# Funcionamiento del programa
+Este repositorio contiene un programa que sirve para encontrar el *volumen y el area de una circunferencia*, teniendo como dato el radio de la circunferencia.
 
 ## Autor
-Datos sobre el programador.
+Los datos del autor de este programa son:
+**Estudiante**: *Julio Josue anibal Cojom Pacaja*
+[https://github.com/JulioJosue]
+**Carné**: *1639021*
